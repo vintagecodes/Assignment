@@ -1,0 +1,9 @@
+body{
+    margin: 20px;
+    background-color: rgb(177, 243, 64);
+}
+
+label{
+    font-weight: 800;
+    font-size: large;
+}
